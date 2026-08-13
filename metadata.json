@@ -1,0 +1,6 @@
+{
+  "name": "Calculador de Rotas de Transporte Público",
+  "description": "Planejador inteligente de rotas de transporte público com cálculo de tempo, tarifas integradas, baldeações, mapa interativo e status das linhas.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
